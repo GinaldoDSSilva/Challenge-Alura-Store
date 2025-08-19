@@ -30,7 +30,7 @@ O faturamento foi o primeiro indicador analisado:
 
 Com base na análise do faturamento das quatro lojas, foi possível identificar que a Loja 1 teve o maior faturamento no período analisado, enquanto a Loja 4 apresentou o menor faturamento.
 
-![Gráfico de Vendas](imagens/Faturamento.png)
+![Gráfico de Vendas]([imagens/Faturamento.png](https://github.com/GinaldoDSSilva/Challenge-Alura-Store/blob/main/Faturamento%5B1%5D.png)
 
 ## Vendas por categoria
 
