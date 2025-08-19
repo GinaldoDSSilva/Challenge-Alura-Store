@@ -30,8 +30,7 @@ O faturamento foi o primeiro indicador analisado:
 
 Com base na análise do faturamento das quatro lojas, foi possível identificar que a Loja 1 teve o maior faturamento no período analisado, enquanto a Loja 4 apresentou o menor faturamento.
 
-<img width="1184" height="590" alt="Image" src="https://github.com/user-attachments/assets/efdb6faf-3107-44d4-8761-ae362c731740" />
-
+![Gráfico faturamento](https://github.com/GinaldoDSSilva/Challenge-Alura-Store/blob/main/img/Faturamento%5B1%5D.png)
 ## Vendas por categoria
 
 Com base na análise de performance de cada categoria em cada loja observamos que:
@@ -44,7 +43,7 @@ A **Loja 3** foi a que mais se destacou nas categorias de móveis e eletrônicos
 
 Já a **Loja 4** teve o menor desempenho em várias categorias, mas se destacou nas vendas de brinquedos e utilidades domésticas, indicando que pode estar atendendo um público mais voltado para o lar e para crianças.
 
-<img width="1189" height="569" alt="Image" src="https://github.com/user-attachments/assets/e3b7b755-1db2-46ae-a42f-23c5cff226e0" />
+![Gráfico de categorias](https://github.com/GinaldoDSSilva/Challenge-Alura-Store/blob/main/img/Categorias%5B2%5D.png)
 
 ## Média de avaliação das lojas
 
@@ -58,8 +57,7 @@ A **Loja 2** teve uma **média de 4,04**, reforçando seu perfil equilibrado e m
 
 A **Loja 3** obteve a melhor **média de avaliação (4,05)**, o que pode indicar uma maior satisfação dos clientes, refletindo uma boa experiência de compra, qualidade dos produtos e eficiência no atendimento e na entrega.
 
-<img width="678" height="471" alt="Image" src="https://github.com/user-attachments/assets/bfe030d0-c30b-4f93-85a1-4018a7ced509" />
-
+![Gráfico de avaliação](https://github.com/GinaldoDSSilva/Challenge-Alura-Store/blob/main/img/Avaliacao%5B1%5D.png)
 
 ## Produtos mais e menos vendidos
 
@@ -84,7 +82,7 @@ Os itens mais vendidos foram a bicicleta (191 unidades), o fogão (182 unidades)
 
 Entre os produtos mais vendidos estão o curso Dashboard Power BI (196 unidades), a cama box (195 unidades) e o faqueiro (183 unidades). Os produtos de menor saída foram a guitarra (97 unidades), o smartwatch (93 unidades) e o guarda-roupas (88 unidades).
 
-<img width="1390" height="975" alt="Image" src="https://github.com/user-attachments/assets/5aaaf64a-1199-4b24-acb0-4d68d066c93d" />
+![Gráfico top produtos mais vendidos](https://github.com/GinaldoDSSilva/Challenge-Alura-Store/blob/main/img/Top_flop_categorias%5B2%5D.png)
 
 ## Frete médio por loja
 
